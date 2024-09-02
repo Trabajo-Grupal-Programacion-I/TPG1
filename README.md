@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-"comentario de manu-crespo" 
-=======
+
 # TPG1
 TRABAJO PRACTICO RAMAS 
 COMENTARIO IGNACIO NAVARRIA
 COMENTARIO JULIAN SANTOS
->>>>>>> ffaa5bd2b28b72ac38ac4bc5310c11c4e397de3b
