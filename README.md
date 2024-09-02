@@ -1,2 +1,3 @@
 # TPG1
-Full trolazo el que clone el repositorio
+TRABAJO PRACTICO RAMAS 
+COMENTARIO IGNACIO NAVARRIA
